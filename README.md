@@ -46,10 +46,10 @@
   </div>
   <br>
   <div class="stats">
-    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=zhininghjl&custom_title=GitHub Stats&title_color=c1af80&text_color=707070&bg_color=ece5de&border_radius=0&show_icons=true&icon_color=7e9081&count_private=true&hide=issues" width="80%"/>
+    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=zhininghjl&custom_title=GitHub Stats&title_color=c1af80&text_color=707070&bg_color=ece5de&border_radius=0&show_icons=true&icon_color=7e9081&count_private=true&hide=issues" width="70%"/>
     <br>
     <br>
-    <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhininghjl&layout=compact&title_color=c1af80&text_color=707070&bg_color=ece5de&border_radius=0" width="80%"/>
+    <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhininghjl&layout=compact&title_color=c1af80&text_color=707070&bg_color=ece5de&border_radius=0" width="70%"/>
     <br>
     <br>
     <img alt="visitor badge" src="https://badges.pufler.dev/visits/zhininghjl/zhininghjl?color=f0f0f0"/>
