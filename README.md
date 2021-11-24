@@ -46,12 +46,12 @@
   </div>
   <br>
   <div class="stats">
-    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=zhininghjl&custom_title=GitHub Stats&title_color=c1af80&text_color=707070&bg_color=ece5de&border_radius=0&show_icons=true&icon_color=7e9081&count_private=true&hide=issues" width="70%"/>
+    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=zhininghjl&custom_title=GitHub Stats&title_color=bdaf85&text_color=595959&bg_color=ece5de&border_radius=0&show_icons=true&icon_color=9aa181&count_private=true&hide=issues" width="600px"/>
     <br>
     <br>
-    <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhininghjl&layout=compact&title_color=c1af80&text_color=707070&bg_color=ece5de&border_radius=0" width="70%"/>
+    <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhininghjl&layout=compact&title_color=bdaf85&text_color=595959&bg_color=ece5de&border_radius=0" width="600px"/>
     <br>
     <br>
-    <img alt="visitor badge" src="https://badges.pufler.dev/visits/zhininghjl/zhininghjl?color=f0f0f0"/>
+    <img alt="visitor badge" src="https://badges.pufler.dev/visits/zhininghjl/zhininghjl?color=eff1f2"/>
   </div>
 </div>
