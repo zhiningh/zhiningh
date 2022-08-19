@@ -1,7 +1,20 @@
 <div align="center">
 
 ![header](assets/header.png)
-![conan](assets/conan.gif)
+
+<pre>
+  ,-.       _,---._ __  / \   
+ /  )    .-'       `./ /   \  
+(  (   ,'            `/    /| 
+ \  `-"             \'\   / | 
+  `.              ,  \ \ /  | 
+   /`.          ,'-`----Y   | 
+  (            ;        |   ' 
+  |  ,-.    ,-'         |  /  
+  |  | (   | Hello World| /   
+  )  |  \  `.___________|/    
+  `--'   `--'                 
+</pre>
 
 &nbsp;
 &nbsp;
@@ -55,13 +68,22 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 &nbsp;
-
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=zhininghjl&custom_title=GitHub Stats&title_color=bdaf85&text_color=595959&bg_color=ece5de&border_radius=0&show_icons=true&icon_color=9aa181&count_private=true&hide=issues" width="600px"/>
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhininghjl&layout=compact&title_color=bdaf85&text_color=595959&bg_color=ece5de&border_radius=0" width="600px"/>
-
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=zhininghjl&custom_title=GitHub+Stats&hide=issues&hide_border=true&show_icons=true&count_private=true&title_color=bdaf85&text_color=25292e&bg_color=f6f8fa&icon_color=9aa181&border_radius=5" width="600px"/>
 &nbsp;
-&nbsp;
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhininghjl&layout=compact&hide_title=true&hide_border=true&text_color=25292e&bg_color=f6f8fa&border_radius=5&langs_count=5" width="600px"/>
 
-### 𓁺 ;𓁺
+
+<pre>
+        |       
+       / \      
+      / _ \     
+     |.o '.|    
+     |'._.'|    
+     |     |    
+   ,'|  |  |`.  
+  /  |  |  |  \ 
+  |,-'--|--'-.| 
+     ()(|)()    
+</pre>
 
 </div>
